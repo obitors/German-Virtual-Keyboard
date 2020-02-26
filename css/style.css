@@ -1,0 +1,215 @@
+body{
+  background-color: #e3edf7;
+  font-family: Poppins;
+  font-style: italic;
+  font-weight: bolder;
+  position: relative;
+}
+
+.circle1 {
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;
+  border-radius: 50%;
+  box-shadow: inset 2px 2px 1px -1px rgba(0,0,0,0.3),
+                inset -2px -2px 1px -1px rgba(255,255,255,1);
+  border: 1px solid rgba(0,0,0,0.0);
+  margin-left: -60%;
+  margin-Top: -50%;
+}
+
+.Obitors {
+  text-align: right;
+}
+
+.Obitors-Tastatur {
+  width: 90%;
+  height: 0px;
+  padding-bottom: 36%;
+  background-color: #e3edf7;
+  color: #e3edf7;
+      box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+                -6px -6px 10px -1px rgba(255,255,255,0.7);
+  border: 1px solid rgba(0,0,0,0.0);
+  border-radius: 1em;
+  margin: -30% auto;
+
+
+}
+
+.Alpha {
+  float: left;
+  width: 74%;
+}
+
+.Numeric {
+  float: left;
+  width: 20%;
+}
+
+.Button {
+
+  width: 5.5%;
+  height: 0px;
+  padding-bottom: 2%;
+  color: rgba(49,69,106,0.55);
+  box-shadow: 4px 4px 8px -1px rgba(0,0,0,0.2),
+                -4px -4px 8px -1px rgba(255,255,255,.8);
+  border: 1px solid rgba(0,0,0,0.0);
+  border-radius: 10px;
+  text-align: center;
+  float: left;
+  margin-left: 0.8%;
+  margin-bottom: 5px;
+  font-size: 60%;
+
+}
+
+.Function-keys {
+  width: 100%;
+  float: left;
+  margin-top: 7%;
+  margin-left: 3%;
+}
+
+
+.Number-keys {
+  width: 100%;
+  float: left;
+  margin-top: 2%;
+  margin-left: 3%;
+}
+
+
+.Row1-keys {
+  width: 100%;
+  float: left;
+  margin-top: 1%;
+  margin-left: 3%;
+}
+
+.Row2-keys {
+  width: 100%;
+  float: left;
+  margin-top: 1%;
+  margin-left: 3%;
+}
+
+.Row3-keys {
+  width: 100%;
+  float: left;
+  margin-top: 1%;
+  margin-left: 3%;
+}
+
+.Spl-keys {
+  width: 100%;
+  float: left;
+  margin-top: 1%;
+  margin-left: 3%;
+}
+
+.Num {
+  width: 5.5%;
+  height: 0px;
+  padding-bottom: 5.5%;
+  line-height: 150%;
+  font-size: 80%;
+}
+
+.Row1 {
+  width: 5.5%;
+  height: 0px;
+  padding-bottom: 5.5%;
+  font-size: 80%;
+}
+
+.Row2 {
+  width: 5.5%;
+  height: 0px;
+  padding-bottom: 5.5%;
+  font-size: 80%;
+}
+
+.Row3 {
+  width: 5.5%;
+  height: 0px;
+  padding-bottom: 5.5%;
+  font-size: 80%;
+}
+
+.Spl {
+  width: 5.5%;
+  height: 0px;
+  padding-bottom: 5.5%;
+  font-size: 80%;
+}
+
+.esc {
+  width: 7.2%;
+}
+
+.del {
+  width: 7.2%;
+}
+
+.qq {
+  width: 5%;
+}
+
+.Tab {
+  width: 6.1%;
+}
+
+.Backspace {
+  width: 9.3%;
+}
+
+.Caps {
+  width: 8.3%;
+}
+
+.Shift2 {
+  width: 14.4%;
+}
+
+.Ctrl {
+  width: 9.1%;
+}
+
+.Spacebar {
+  width: 36.4%;
+}
+
+.Touch {
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  box-shadow: inset 2px 2px 3px -1px rgba(0,0,0,0.3),
+                inset -2px -2px 3px -1px rgba(255,255,255,1);
+  border: 1px solid rgba(0,0,0,0.0);
+  margin-left: 12%;
+  border-radius: 10px;
+}
+
+.Separator {
+  width: 3%;
+  height: 0px;
+  padding-bottom: 22%;
+  box-shadow: inset 2px 2px 3px -1px rgba(0,0,0,0.3),
+                inset -2px -2px 3px -1px rgba(255,255,255,1);
+  border: 1px solid rgba(0,0,0,0.0);
+  margin-left: 48%;
+  margin-top: 72%;
+  border-radius: 10px;
+}
+
+.Company {
+  width: 100%;
+  color: rgba(49,69,106,0.38);
+  text-align: center;
+  font: 15px Arial, sans-serif;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 12%;
+}
